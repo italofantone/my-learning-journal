@@ -7,8 +7,8 @@
 A collection of lessons, vocabulary, and examples from my journey to learn English. Made for anyone learning from zero.
 
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1bF_NbMDEVAq2X3yuifMVMYc7LvEdrOpNWb-wTDLlXYo/edit?usp=sharing).
-- [Anki deck](./initial-vocabulary-v1.apkg).
-- [CSV file](./initial-vocabulary-v1.csv).
+- [Anki deck](./initial-vocabulary-v1.0.0.apkg).
+- [CSV file](./initial-vocabulary-v1.0.0.csv).
 - Follow my progress:
     - [Blog](https://italofantone.com/blog).
     - [LinkedIn](https://www.linkedin.com/in/italofantone/).
